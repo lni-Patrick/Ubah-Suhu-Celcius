@@ -1,7 +1,7 @@
 # Kalkulator Ubah Suhu Celcius
 
 ```markdown
-Ubah suhu Celcius ke Suhu Reamur,Fahrenheit,&amp; Kelvin
+Ubah suhu Celcius ke Suhu Reamur,Fahrenheit,Kelvin
 ```
 ![github stats](https://github-readme-stats.vercel.app/api?username=lni-patrick&show_icons=true&theme=white)
 <a href="https://github.com/lni-Patrick/Battery-Detection"><img title="Battery Detection" src="https://github-readme-stats.vercel.app/api/pin/?username=lni-patrick&repo=Battery-Detection&theme=white"></a>
